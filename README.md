@@ -2,9 +2,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=ffe6e6&height=200&section=header&text=hansumin52978%20&fontSize=55&fontColor=de9d9d)
 
+####  :wave: Welcome my github profile !
+
+</br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansumin52978&show_icons=true&theme=radical)
 
-## 🔨 Once I've used 🔨
+</br>
+
+## :rocket: Once I've used :rocket:
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend</strong></p>
@@ -41,6 +47,12 @@
         <img src="https://img.shields.io/badge/gitkraken-179287?style=flat-square&logo=gitkraken&logoColor=white">
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
         <a href="https://blog.naver.com/gkstnals2626"><img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=Naver&logoColor=white"/></a>
-</div><br>
+              
+</div>
+
+#### :pencil2: Study log
+        
+<a href="https://blog.naver.com/gkstnals2626"><img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=Naver&logoColor=white"/></a>
+
 </div>
 </div>
