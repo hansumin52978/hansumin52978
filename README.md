@@ -45,8 +45,7 @@
     <div>
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
         <img src="https://img.shields.io/badge/gitkraken-179287?style=flat-square&logo=gitkraken&logoColor=white">
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-        <a href="https://blog.naver.com/gkstnals2626"><img src="https://img.shields.io/badge/blog-20C997?style=flat-square&logo=Naver&logoColor=white"/></a>
+        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
               
 </div>
 
